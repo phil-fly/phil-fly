@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 <img align='center' src="https://github-readme-stats.vercel.app/api?username=phil-fly&show_icons=true&theme=radical" width="380">
 
-- 🌱 CookingCybersecurity Practitioners
+- 🌱  Cybersecurity Practitioners
 - 📫 How to reach me: dpf891x@163.com
 
 

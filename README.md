@@ -21,19 +21,18 @@ Here are some ideas to get you started:
 | ✨ [arpSweep](https://github.com/phil-fly/arpSweep)   ![](https://img.shields.io/github/stars/phil-fly/arpSweep)|arp扫描器,支持识别混杂模式主机|
 | ✨ [webscan](https://github.com/phil-fly/webscan)   ![](https://img.shields.io/github/stars/phil-fly/webscan)|web title扫描|
 | ✨ [buildDict](https://github.com/phil-fly/buildDict)   ![](https://img.shields.io/github/stars/phil-fly/buildDict)|字典生成工具|
-| ✨ [buildDict](https://github.com/phil-fly/buildDict)   ![](https://img.shields.io/github/stars/phil-fly/buildDict)|字典生成工具|
 
 
 私密仓库列表：
 
 | 私密仓库 | 说明 |
 | ------------------------------------------------------------ | -------------- |
-| ✨ [shadow](https://github.com/phil-fly/shadow)   ![](https://img.shields.io/github/stars/phil-fly/shadow) | 欺骗防御平台蜜罐仓库 |
-| ✨ [generate](https://github.com/phil-fly/generate)   ![](https://img.shields.io/github/stars/phil-fly/generate) | 欺骗防御平台反制工具仓库 |
-| ✨ [hogwarts](https://github.com/phil-fly/hogwarts)   ![](https://img.shields.io/github/stars/phil-fly/hogwarts) | 欺骗防御平台远控服务仓库 |
-| ✨ [hogwarts](https://github.com/phil-fly/hogwarts)   ![](https://img.shields.io/github/stars/phil-fly/hogwarts) | 欺骗防御平台远控服务仓库 |
+| ✨ [shadow](https://github.com/phil-fly/shadow)   ![](https://img.shields.io/github/stars/phil-fly/shadow) | 仿真蜜罐仓库 |
+| ✨ [generate](https://github.com/phil-fly/generate)   ![](https://img.shields.io/github/stars/phil-fly/generate) | 反制工具仓库(木马,bd) |
+| ✨ [hogwarts](https://github.com/phil-fly/hogwarts)   ![](https://img.shields.io/github/stars/phil-fly/hogwarts) | 远控 |
 | ✨ [honeytoken](https://github.com/phil-fly/honeytoken)   ![](https://img.shields.io/github/stars/phil-fly/honeytoken) | token类诱饵伪造仓库 |
 | ✨ [honeyfile](https://github.com/phil-fly/honeyfile)   ![](https://img.shields.io/github/stars/phil-fly/honeyfile) | 文件类诱饵伪造仓库 |
 | ✨ [honeycreds](https://github.com/phil-fly/honeycreds)   ![](https://img.shields.io/github/stars/phil-fly/honeycreds) | 凭据信息伪造仓库 |
+| ✨ [honeysweb](https://github.com/phil-fly/honeysweb)   ![](https://img.shields.io/github/stars/phil-fly/honeysweb) | 页面录制仿真 |
 
 

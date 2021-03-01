@@ -7,7 +7,7 @@
 
 Here are some ideas to get you started:
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=phil-fly&show_icons=true&theme=radical" width="380">
+<img align='center' src="https://github-readme-stats.vercel.app/api?username=phil-fly&show_icons=true&theme=radical" width="380"> 
 
 - 🌱  Cybersecurity Practitioners
 - 📫 How to reach me: dpf891x@163.com
@@ -19,11 +19,20 @@ Here are some ideas to get you started:
 | ------------------------------------------------------------ | -------------- |
 | ✨ [goWeakPass](https://github.com/phil-fly/goWeakPass)   ![](https://img.shields.io/github/stars/phil-fly/goWeakPass) | 弱口令检查工具 |
 | ✨ [godSkills](https://github.com/phil-fly/godSkills)   ![](https://img.shields.io/github/stars/phil-fly/godSkills)|天工百晓,主机监控(文件,进程,网络,docker)|
-| ✨ [portScan](https://github.com/phil-fly/portScan)   ![](https://img.shields.io/github/stars/phil-fly/portScan)|开放端口扫描|
+| ✨ [portScan](https://github.com/phil-fly/portScan)   ![](https://img.shields.io/github/stars/phil-fly/portScan)|开放端口扫描（同时支持http https  nbns等信息探测）|
 | ✨ [arpSweep](https://github.com/phil-fly/arpSweep)   ![](https://img.shields.io/github/stars/phil-fly/arpSweep)|arp扫描器,支持识别混杂模式主机|
 | ✨ [webscan](https://github.com/phil-fly/webscan)   ![](https://img.shields.io/github/stars/phil-fly/webscan)|web title扫描|
 | ✨ [buildDict](https://github.com/phil-fly/buildDict)   ![](https://img.shields.io/github/stars/phil-fly/buildDict)|字典生成工具|
 
+百晓子仓库列表:
+| 公开仓库 | 说明 |
+| ------------------------------------------------------------ | -------------- |
+| ✨ [akserver](https://github.com/phil-fly/akserver)   ![](https://img.shields.io/github/stars/phil-fly/akserver) | 百晓服务端 |
+| ✨ [akagent](https://github.com/phil-fly/akagent)   ![](https://img.shields.io/github/stars/phil-fly/akagent) | 百晓代理程序源码 |
+| ✨ [akfs](https://github.com/phil-fly/akfs)   ![](https://img.shields.io/github/stars/phil-fly/akfs) | 百晓内核文件系统 |
+| ✨ [akfile](https://github.com/phil-fly/akfile)   ![](https://img.shields.io/github/stars/phil-fly/akfile) | 百晓内核文件监控 |
+| ✨ [akps](https://github.com/phil-fly/akps)   ![](https://img.shields.io/github/stars/phil-fly/akps) | 百晓内核进程监控 |
+| ✨ [aknet](https://github.com/phil-fly/aknet)   ![](https://img.shields.io/github/stars/phil-fly/aknet) | 百晓内核网络行为监控 |
 
 私密仓库列表：
 

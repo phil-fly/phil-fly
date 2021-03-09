@@ -1,17 +1,24 @@
 ### Hi there 👋
 
-<!--
-**phil-fly/phil-fly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align ="center"><a href="#aboutMe"> about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#hids"> 百晓HIDS </a>|<a href="#honey"> honey </a></h3>
+---
+<h3 id="aboutMe"> ⭐️ about me ⭐️</h3>
 
--->
-
-Here are some ideas to get you started:
-
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=phil-fly&show_icons=true&theme=radical" width="380"> 
-
+<h4>I am a security worker, like to study the spoofing defense technology and other network security technology, welcome to exchange.</h4>
+<img src="https://komarev.com/ghpvc/?username=phil-fly&label=统计" alt="blueedge"/>
+---
 - 🌱  Cybersecurity Practitioners
 - 📫 How to reach me: dpf891x@163.com
 
+<h3 id ="stats"> stats</h3>
+
+<p>
+<img height=150 src="https://github-readme-stats.vercel.app/api?username=phil-fly&count_private=true&show_icons=true&theme=tokyonight">
+<img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=phil-fly&layout=compact&theme=tokyonight&hide=html">
+</p>
+
+
+<h3 id="projects"> ⭐️ projects ⭐️</h3>
 
 公开仓库列表：
 
@@ -24,7 +31,9 @@ Here are some ideas to get you started:
 | ✨ [webscan](https://github.com/phil-fly/webscan)   ![](https://img.shields.io/github/stars/phil-fly/webscan)|web title扫描|
 | ✨ [buildDict](https://github.com/phil-fly/buildDict)   ![](https://img.shields.io/github/stars/phil-fly/buildDict)|字典生成工具|
 
-百晓子仓库列表:
+
+<h3 id ="hids">⭐️ 百晓HIDS ⭐️</h3>
+
 | 公开仓库 | 说明 |
 | ------------------------------------------------------------ | -------------- |
 | ✨ [akserver](https://github.com/phil-fly/akserver)   ![](https://img.shields.io/github/stars/phil-fly/akserver) | 百晓服务端 |
@@ -34,7 +43,8 @@ Here are some ideas to get you started:
 | ✨ [akps](https://github.com/phil-fly/akps)   ![](https://img.shields.io/github/stars/phil-fly/akps) | 百晓内核进程监控 |
 | ✨ [aknet](https://github.com/phil-fly/aknet)   ![](https://img.shields.io/github/stars/phil-fly/aknet) | 百晓内核网络行为监控 |
 
-私密仓库列表：
+
+<h3 id ="honey">⭐️ honey ⭐️</h3>
 
 | 私密仓库 | 说明 |
 | ------------------------------------------------------------ | -------------- |

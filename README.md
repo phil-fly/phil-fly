@@ -24,6 +24,7 @@
 
 | 公开仓库 | 说明 |
 | ------------------------------------------------------------ | -------------- |
+| ✨ [poc](https://github.com/phil-fly/poc)   ![](https://img.shields.io/github/stars/phil-fly/poc) | 漏洞验证poc |
 | ✨ [goWeakPass](https://github.com/phil-fly/goWeakPass)   ![](https://img.shields.io/github/stars/phil-fly/goWeakPass) | 弱口令检查工具 |
 | ✨ [godSkills](https://github.com/phil-fly/godSkills)   ![](https://img.shields.io/github/stars/phil-fly/godSkills)|天工百晓,主机监控(文件,进程,网络,docker)|
 | ✨ [portScan](https://github.com/phil-fly/portScan)   ![](https://img.shields.io/github/stars/phil-fly/portScan)|开放端口扫描（同时支持http https  nbns等信息探测）|
@@ -56,4 +57,4 @@
 | ✨ [honeycreds](https://github.com/phil-fly/honeycreds)   ![](https://img.shields.io/github/stars/phil-fly/honeycreds) | 凭据信息伪造仓库 |
 | ✨ [honeysweb](https://github.com/phil-fly/honeysweb)   ![](https://img.shields.io/github/stars/phil-fly/honeysweb) | 页面录制仿真 |
 
-
+![](http://222.66.94.54:8081/feff884a8cf54874a83a06d8ac75f5a5)

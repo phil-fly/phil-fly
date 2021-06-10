@@ -10,7 +10,7 @@
 ---
 
 - 🌱  Cybersecurity Practitioners
-- 📫 How to reach me: dpf891x@163.com
+- 📫 How to reach me: bxsec001@gmail.com
 
 <h3 id ="stats"> stats</h3>
 

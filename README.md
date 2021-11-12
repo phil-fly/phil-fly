@@ -33,6 +33,7 @@
 
 | 公开仓库 | 说明 |
 | ------------------------------------------------------------ | -------------- |
+| ✨ [stix与威胁情报](https://github.com/phil-fly/stixdoc)   ![](https://img.shields.io/github/stars/phil-fly/stixdoc) | stix与威胁情报 |
 | ✨ [poc](https://github.com/phil-fly/poc)   ![](https://img.shields.io/github/stars/phil-fly/poc) | 漏洞验证poc |
 | ✨ [goWeakPass](https://github.com/phil-fly/goWeakPass)   ![](https://img.shields.io/github/stars/phil-fly/goWeakPass) | 弱口令检查工具 |
 | ✨ [portScan](https://github.com/phil-fly/portScan)   ![](https://img.shields.io/github/stars/phil-fly/portScan)|开放端口扫描（同时支持http https  nbns等信息探测）|

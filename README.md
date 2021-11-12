@@ -26,7 +26,7 @@
 
 | 仓库 | 说明 |
 | ------------------------------------------------------------ | -------------- |
-| ✨ [bxdoc](https://gitee.com/godSkills/bxdoc)  | 百晓HIDS文档 |
+| ✨ [bxdoc](https://gitee.com/godSkills/bxdoc)  ![](https://img.shields.io/github/stars/phil-fly/bxdoc)| 百晓HIDS文档 |
 | ✨ [bx-rule](https://github.com/phil-fly/bx-rule)   ![](https://img.shields.io/github/stars/phil-fly/bx-rule) | 百晓事件规则 |
 
 公开仓库列表：

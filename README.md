@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h3 align ="center"><a href="#aboutMe"> about me </a>|<a href="#projects">  projects</a>|<a href="#stats"> stats </a>|<a href="#hids"> bx-sec </a>|<a href="#honey"> honey </a></h3>
+<h3 align ="center"><a href="#aboutMe"> about me </a>|<a href="#projects">  工具</a>|<a href="#stats"> stats </a>|<a href="#hids"> bx-sec </a>|<a href="#honey"> honey </a></h3>
 ---
 <h3 id="aboutMe"> ⭐️ about me ⭐️</h3>
 
@@ -20,13 +20,24 @@
 </p>
 
 
-<h3 id="projects"> ⭐️ projects ⭐️</h3>
+<h3 id="projects"> ⭐️ 工具 ⭐️</h3>
+
+| 仓库 | 说明 |
+| ------------------------------------------------------------ | -------------- |
+| ✨ [utmphd](https://gitee.com/phil-fly/utmphd)  ![](https://img.shields.io/github/stars/phil-fly/utmphd)| linux登录信息伪造/清理/查看工具-golang |
+| ✨ [XshellCrypto](https://gitee.com/phil-fly/XshellCrypto)  ![](https://img.shields.io/github/stars/phil-fly/XshellCrypto)| xshell/xftp 各版本加解密 |
+| ✨ [goWeakPass](https://github.com/phil-fly/goWeakPass)   ![](https://img.shields.io/github/stars/phil-fly/goWeakPass) | 弱口令检查工具 |
+| ✨ [portScan](https://github.com/phil-fly/portScan)   ![](https://img.shields.io/github/stars/phil-fly/portScan)|开放端口扫描（同时支持http https  nbns等信息探测）|
+| ✨ [arpSweep](https://github.com/phil-fly/arpSweep)   ![](https://img.shields.io/github/stars/phil-fly/arpSweep)|arp扫描器,支持识别混杂模式主机|
+| ✨ [webscan](https://github.com/phil-fly/webscan)   ![](https://img.shields.io/github/stars/phil-fly/webscan)|web title扫描|
+| ✨ [buildDict](https://github.com/phil-fly/buildDict)   ![](https://img.shields.io/github/stars/phil-fly/buildDict)|字典生成工具|
+
 
 <h3 id ="hids">⭐️ bx-sec ⭐️</h3>
 
 | 仓库 | 说明 |
 | ------------------------------------------------------------ | -------------- |
-| ✨ [bxdoc](https://gitee.com/godSkills/bxdoc)  ![](https://img.shields.io/github/stars/phil-fly/bxdoc)| 百晓HIDS文档 |
+| ✨ [bxdoc](https://gitee.com/bx-sec/bxdoc)  ![](https://img.shields.io/github/stars/phil-fly/bxdoc)| 百晓HIDS文档 |
 | ✨ [bx-rule](https://github.com/phil-fly/bx-rule)   ![](https://img.shields.io/github/stars/phil-fly/bx-rule) | 百晓事件规则 |
 
 公开仓库列表：
@@ -35,11 +46,6 @@
 | ------------------------------------------------------------ | -------------- |
 | ✨ [stix与威胁情报](https://github.com/phil-fly/stixdoc)   ![](https://img.shields.io/github/stars/phil-fly/stixdoc) | stix与威胁情报 |
 | ✨ [poc](https://github.com/phil-fly/poc)   ![](https://img.shields.io/github/stars/phil-fly/poc) | 漏洞验证poc |
-| ✨ [goWeakPass](https://github.com/phil-fly/goWeakPass)   ![](https://img.shields.io/github/stars/phil-fly/goWeakPass) | 弱口令检查工具 |
-| ✨ [portScan](https://github.com/phil-fly/portScan)   ![](https://img.shields.io/github/stars/phil-fly/portScan)|开放端口扫描（同时支持http https  nbns等信息探测）|
-| ✨ [arpSweep](https://github.com/phil-fly/arpSweep)   ![](https://img.shields.io/github/stars/phil-fly/arpSweep)|arp扫描器,支持识别混杂模式主机|
-| ✨ [webscan](https://github.com/phil-fly/webscan)   ![](https://img.shields.io/github/stars/phil-fly/webscan)|web title扫描|
-| ✨ [buildDict](https://github.com/phil-fly/buildDict)   ![](https://img.shields.io/github/stars/phil-fly/buildDict)|字典生成工具|
 
 <h3 id ="honey">⭐️ honey ⭐️</h3>
 
